@@ -62,6 +62,6 @@ This project is open-sourced under the [MIT License](LICENSE). You are free to u
 
 Let's keep the fun of guessing words alive with **HangMan_Android**! 🎉
 
-![Hangman Example](https://stock.adobe.com/search?k=hangman+game&asset_id=517383341)
+![Hangman Example](https://github.com/Ornella-Gigante/HangMan_Android/blob/main/hangman.jpg)
 
 *Image by en:User:Demi, licensed under the [GNU Free Documentation License](https://www.gnu.org/licenses/fdl-1.3.html) and [Creative Commons Attribution-Share Alike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/deed.en).*
