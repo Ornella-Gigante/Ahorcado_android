@@ -62,4 +62,4 @@ This project is open-sourced under the [MIT License](LICENSE). You are free to u
 
 Let's keep the fun of guessing words alive with **Ahorcado_Android**! 🎉
 
-![Hangman](https://www.oligalma.com/en/downloads/images/hangman/hangman.zip)
+(https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hangman_example.svg/512px-Hangman_example.svg.png)
