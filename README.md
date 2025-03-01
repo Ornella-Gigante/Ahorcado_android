@@ -60,6 +60,8 @@ This project is open-sourced under the [MIT License](LICENSE). You are free to u
 - [GitHub](https://github.com/Ornella-Gigante)
 - [LinkedIn](https://www.linkedin.com/in/ornella-gigante/)
 
-Let's keep the fun of guessing words alive with **Ahorcado_Android**! 🎉
+Let's keep the fun of guessing words alive with **HangMan_Android**! 🎉
 
-(https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hangman_example.svg/512px-Hangman_example.svg.png)
+![Hangman Example](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hangman_example.svg/512px-Hangman_example.svg.png)
+
+*Image by en:User:Demi, licensed under the [GNU Free Documentation License](https://www.gnu.org/licenses/fdl-1.3.html) and [Creative Commons Attribution-Share Alike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/deed.en).*
