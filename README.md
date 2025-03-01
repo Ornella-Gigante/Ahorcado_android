@@ -1,3 +1,28 @@
+# 🎮 Ahorcado_Android: The Classic Hangman Game!
+
+Welcome to **Ahorcado_Android**! This project brings the timeless game of Hangman to your Android device, developed using Android Studio and Java. Here's what you need to know:
+
+## 🚀 Project Overview
+
+- **Platform**: Android
+- **Development Environment**: Android Studio
+- **Language**: Java
+- **Purpose**: To provide an engaging and educational game experience with the classic Hangman game.
+
+## 🌟 Key Features
+
+- **Classic Gameplay**: Guess the word by suggesting letters, with each incorrect guess drawing a part of the hangman.
+- **Word Database**: A collection of words for the game to choose from, ensuring variety and replayability.
+- **User Interface**: A clean and intuitive UI designed for easy interaction on Android devices.
+- **Game Modes**: Options for different difficulty levels or categories of words.
+- **Scoring System**: Keep track of your wins, losses, and streaks.
+
+## 🛠️ How to Play
+
+1. **Clone the Repository**: 
+git clone https://github.com/Ornella-Gigante/Ahorcado_android.git
+
+text
 
 2. **Open in Android Studio**: Import the project into Android Studio.
 
